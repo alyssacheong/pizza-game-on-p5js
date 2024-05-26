@@ -1,2 +1,6 @@
 # Pizza game made on p5js
-<iframe src="https://editor.p5js.org/Toasterf1sh/full/VdTBlwmod"></iframe>
+Click on pizza to toggle game. 
+Press a to toggle pepperoni.
+Press s to toggle ham.
+Press d to toggle mushroom.
+Press f to toggle pineapple.
